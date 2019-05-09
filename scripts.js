@@ -9,7 +9,9 @@ var red = "red";
 var blue = "blue";
 
 // end blue section
-
+blue = 0;
+blue++
+console.log(blue);
 // start pink section;
 
 var pink = "pink";
