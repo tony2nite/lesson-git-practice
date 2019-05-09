@@ -28,7 +28,7 @@ var green = "green";
 
 green.textContent = "Hallo bitches!";
 
-content.log(green);
+console.log(green);
 
 // end green section
 
