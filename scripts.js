@@ -9,11 +9,11 @@ var txt2 = "Caro";
 // start blue section;
 
 var blue = "blue";
-
-// end blue section
 blue = 0;
 blue++
 console.log(blue);
+// end blue section
+
 // start pink section;
 
 var pink = "pink";
