@@ -13,6 +13,8 @@ var blue = "blue";
 // start pink section;
 
 var pink = "pink";
+console.log("I am wearing "+ pink +" underwear");
+
 
 // end pink section
 
