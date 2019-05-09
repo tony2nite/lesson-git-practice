@@ -1,6 +1,8 @@
 // start red section
 
 var red = "red";
+var txt1 = "Mandy";
+var txt2 = "Caro";
 
 // end red section
 
@@ -15,6 +17,8 @@ console.log(blue);
 // start pink section;
 
 var pink = "pink";
+console.log("I am wearing "+ pink +" underwear");
+
 
 // end pink section
 
