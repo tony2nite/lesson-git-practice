@@ -11,7 +11,9 @@ var txt2 = "Caro";
 var blue = "blue";
 
 // end blue section
-
+blue = 0;
+blue++
+console.log(blue);
 // start pink section;
 
 var pink = "pink";
@@ -21,6 +23,10 @@ var pink = "pink";
 // start green section;
 
 var green = "green";
+
+green.textContent = "Hallo bitches!";
+
+content.log(green);
 
 // end green section
 
