@@ -32,4 +32,7 @@ content.log(green);
 
 var purple = "purple";
 
+purple.textContent = "This is a string. This is a self-reflexive sentence.";
+
+content.log(purple);
 // end purple section
