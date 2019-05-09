@@ -1,6 +1,8 @@
 // start red section
 
 var red = "red";
+var txt1 = "Mandy";
+var txt2 = "Caro";
 
 // end red section
 
