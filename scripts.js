@@ -22,6 +22,10 @@ var pink = "pink";
 
 var green = "green";
 
+green.textContent = "Hallo bitches!";
+
+content.log(green);
+
 // end green section
 
 // start purple section;
